@@ -70,9 +70,7 @@ Before building the dashboard, a structured data quality assessment and cleaning
 1. Initial Data Inspection: This step ensured a clear understanding of the raw dataset before performing transformations. Using Pandas, the dataset was examined to understand:
    - Data types of each column
    - Presence of missing values
-   - Duplicate records
    - Inconsistent categorical values
-   - Distribution of key business variables
 
 2. Data Cleaning & Preprocessing: The objective was to ensure the dataset was consistent, analysis-ready, and free from structural issues. The cleaning process included:
    - Handling missing values in the review rating column
