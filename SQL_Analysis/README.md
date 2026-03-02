@@ -1,6 +1,4 @@
-# Retail Sales & Customer Behavior Analysis
-
-## SQL Analysis
+# Retail Sales & Customer Behavior Analysis (SQL Analysis)
 ### 1. Top Rated Products
 Business Question:
 Which products have the highest average customer review ratings?
